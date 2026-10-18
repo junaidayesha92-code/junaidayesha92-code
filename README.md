@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/33621088/README.2.md)
 # Hi, I'm Ayesha (she/her) 👋
 
 ### Computing Science student at the University of Alberta building ML and data projects with a focus on healthtech, sustainability, and accessible technology.
