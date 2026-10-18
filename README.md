@@ -2,7 +2,7 @@
 
 ### Computing Science student at the University of Alberta building ML and data projects with a focus on healthtech, sustainability, and accessible technology.
 
-Open to data, ML, and software development internships and co-ops - <mailto:junaidayesha92@gmail.com>
+Open to data, ML, and software development internships and co-ops - <junaidayesha92@gmail.com>
 
 ---
 
